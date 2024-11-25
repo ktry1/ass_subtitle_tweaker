@@ -1,7 +1,7 @@
 ## .ass subtitle tweaker
 ---
 ### This is a small app made in Rust to `randomly hide one word from each line of subtitles` of ".ass" format;
-### Suitable `for people who want to learn a new language by watching movies/anime with subtitles 🤩`.
+### Suitable `for people who want to learn a new language by watching movies/anime with subtitles`.
 ---
 ## Usage
 ### 1) Put the `original subtitles`  inside `"subtitle_input"` folder;
